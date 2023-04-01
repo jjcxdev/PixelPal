@@ -1,3 +1,4 @@
+![Untitled-1](https://user-images.githubusercontent.com/112969641/229284685-52f34bf4-1f14-4862-884e-a3e2700c51bc.png)
 <h1>PixelPal</h1>
 
 <p>PixelPal is a macOS application designed to help users easily capture any color on their screen and automatically save it to their clipboard. The application offers support for various color formats, including HSL, RGB, and HEX. This makes it easy to use the captured color for various purposes such as web design, graphic design, and more.</p>
