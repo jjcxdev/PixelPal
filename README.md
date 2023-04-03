@@ -1,7 +1,7 @@
 ![Untitled-1](https://user-images.githubusercontent.com/112969641/229284685-52f34bf4-1f14-4862-884e-a3e2700c51bc.png)
-<h1>PixelPal</h1>
+<h1>PixlPal</h1>
 
-<p>PixelPal is a macOS application designed to help users easily capture any color on their screen and automatically save it to their clipboard. The application offers support for various color formats, including HSL, RGB, and HEX. This makes it easy to use the captured color for various purposes such as web design, graphic design, and more.</p>
+<p>PixlPal is a macOS application designed to help users easily capture any color on their screen and automatically save it to their clipboard. The application offers support for various color formats, including HSL, RGB, and HEX. This makes it easy to use the captured color for various purposes such as web design, graphic design, and more.</p>
 
 <h2>Features</h2>
 
@@ -12,6 +12,7 @@
   <li>Windows version (coming soon)</li>
   <li>Color history (coming soon)</li>
   <li>Screen measurement features (coming soon)</li>
+  <li>Support for Pantone and CMYK (coming soon)</li>
 </ul>
 
 <h2>Requirements</h2>
@@ -23,7 +24,7 @@
 <h2>Installation</h2>
 
 <ol>
-  <li>Download the latest release from the <a href="https://github.com/jjcxdev/PixelPal/releases">Releases</a> page.</li>
+  <li>Download the latest release from the <a href="https://github.com/jjcxdev/PixlPal_free/releases">Releases</a> page.</li>
   <li>Unzip the downloaded file.</li>
   <li>Move the PixelPal app to your Applications folder.</li>
 </ol>
@@ -31,7 +32,7 @@
 <h2>Usage</h2>
 
 <ol>
-  <li>Launch the PixelPal app.</li>
+  <li>Launch the PixlPal app.</li>
   <li>From the menubar, select "Preferences" to choose your preferred color format.</li>
   <li>Select "Color Picker Mode" to enable the color picker.</li>
   <li>Click on the color you want to select.</li>
@@ -41,4 +42,4 @@
 
 <h2>License</h2>
 
-<p>PixelPal Copyright © 2023 jjcx. All rights reserved.</p>
+<p>PixlPal Copyright © 2023 Justin Chambers. All rights reserved.</p>
