@@ -40,6 +40,8 @@
 </ol>
 <p>With these steps, you can easily select any color on your screen and save it to your clipboard in your preferred format.</p>
 
+<br>**Just as a note, you may have to hold ⌘+right click and then select open the first time if you receive the following error "PixlPal cannot be opened because it is from an unidentified developer" - I've submitted to the app store, so this should only be a workaround for a short period of time.
+
 <h2>License</h2>
 
 <p>PixlPal Copyright © 2023 Justin Chambers. All rights reserved.</p>
